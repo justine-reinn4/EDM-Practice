@@ -41,13 +41,13 @@ USE movie_db;
 after that I just ff the task given above
 
 ## Here is the screenshots in my sql workbench
-[](image/selecting%20movie_tbl.png)
+[1](image/selecting%20movie_tbl.png)
 
-[](image/rating%208%20above.png)
+[2](image/rating%208%20above.png)
 
-[](image/action%20or%20drama.png)
+[3](image/action%20or%20drama.png)
 
-[](image/only%20item.png)
+[4](image/only%20item.png)
 
 ## Here is the file I used in importing the data
 [data used](files/IMDB-Movie-Data.csv)
