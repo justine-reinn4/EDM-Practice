@@ -14,7 +14,7 @@ Basic SQL filtering
 ### *Project / Output:*
 Query Movie Database
 Use SELECT + WHERE to find movies by genre, rating
-Data: https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
+Data: https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data  
 *Week 1: Query Movie Database*
 
 #### Scenario:   
