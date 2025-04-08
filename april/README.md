@@ -6,4 +6,11 @@ the things I know is
 - Excel Power Query (fudamental only)
 - my sql workbench (currently taking in college)
 
+Weekly Objective Template (applies to every week)  
+- Learn one core skill/tool or technique  
+- Apply it to a real-world-style problem  
+- Build one mini-project per week  
+- Push it to GitHub with README and reflection (I don't know how to push it so I just upload it 😂😂) 
+
+
 #### [Week 1](april/week%201)
