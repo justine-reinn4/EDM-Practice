@@ -13,4 +13,4 @@ Weekly Objective Template (applies to every week)
 - Push it to GitHub with README and reflection (I don't know how to push it so I just upload it 😂😂) 
 
 
-#### [Week 1](april/week%201)
+#### [Week 1](week%201)
