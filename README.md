@@ -2,7 +2,7 @@
 
 Hi I am Justine Reinn Sanidad.  
 In this repo I am going to documment my journey in learning how to be data analyst in the next 9 months  
-so that I can land a jon hopefully 
+so that I can land a job hopefully 
 
 ## objectives
 To become job-ready as a junior data analyst by building strong skills in SQL, Python, Excel, data cleaning, reporting, and dashboarding  
