@@ -1,5 +1,5 @@
-### April 8 2025 10 AM in manila time and I finish it completely 4:10 PM manila time
-I started learning 
+### April 8 2025 
+I started learning 10 AM in manila time and I finish it completely 4:10 PM manila time
 
 
 ## *Main Goals This Month:*   
