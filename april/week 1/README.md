@@ -24,8 +24,8 @@ You are an intern tasked to prepare a clean dataset for sales reporting.
 
 ## Here is the screenshots
 #### (Before)
-[1](image/Screenshot%202025-04-11%20122142.png)
+![1](image/Screenshot%202025-04-11%20122142.png)
 #### (After)
-[2](image/rating%208%20above.png)
+![2](image/Screenshot%202025-04-11%20122031.png)
 ### File After
 [3](file/week%201.xlsx)
