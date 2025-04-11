@@ -15,8 +15,8 @@ A public portfolio website with case studies
 The skills and confidence to apply for internships or entry-level roles  
 
 
-## Month 1 – SQL + Python Basics
-- Understand core SQL syntax, filtering, sorting, and joins  
-- Write your first Python scripts for data manipulation
-- Build small command-line tools and queries from scratch
+## Month 1 – Data Analytics Fundamentals
+
+#### Monthly Goal:
+Build strong foundational skills in Excel and MySQL Workbench, including formulas, data cleaning, and basic SQL queries.
 #### [Month 1](april)
