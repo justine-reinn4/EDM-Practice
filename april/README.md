@@ -5,8 +5,10 @@ the things I know is
 - Excell (basic excel like pivot table)
 - Excel Power Query (fudamental only)
 - my sql workbench (currently taking in college)
-
-Weekly Objective Template (applies to every week)  
+## Month 1: Data Analytics Fundamentals
+## Monthly Goal:  
+Build strong foundational skills in Excel and MySQL Workbench, including formulas, data cleaning, and basic SQL queries.  
+## Weekly Objective/Goal:
 - Learn one core skill/tool or technique  
 - Apply it to a real-world-style problem  
 - Build one mini-project per week  
